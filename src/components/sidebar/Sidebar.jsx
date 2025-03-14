@@ -83,6 +83,7 @@ const Sidebar = () => {
           <span className="sidebarFriendName">Jane Doe</span>
         </li>
       </ul>
+      <div className="sidebarhr"></div>
     </div>
   )
 }

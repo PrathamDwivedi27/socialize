@@ -3,6 +3,10 @@
     height:calc(100vh -50px);
     padding: 20px;
     overflow-y: scroll;
+    border-bottom: 1px solid lightgrey;
+    border-radius: 10px;
+
+    
 }
 
 ::-webkit-scrollbar-thumb{
@@ -76,4 +80,9 @@
     border-radius: 50%;
     object-fit: cover;
     margin-right: 10px;
+}
+
+.sidebarhr{
+    margin-top: 20px;
+    border: 10px;
 }
