@@ -1,10 +1,15 @@
 import React from 'react'
 import './online.css'
 
-const Online = () => {
+const Online = ({user}) => {
+    console.log(user)
   return (
-    <div>
-      
+    <div className='rightbarFriend'>
+        <div className="rightbarProfileImgContainer">
+        <img src={user.profilePicture} alt="" className="rightbarProfileImg" />
+        <span className="rightbarOnline"></span>
+      </div>
+      <span className="rightbarUsername">{user.username}</span>
     </div>
   )
 }
