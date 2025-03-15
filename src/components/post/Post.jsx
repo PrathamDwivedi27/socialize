@@ -26,7 +26,8 @@ const Post = ({post}) => {
             <div className="postTopLeft">
                 <img src={Users.filter((u)=>u.id===post.userId)[0].profilePicture} alt="" className="postProfileImg" />
                 <span className="postUsername">{
-                    Users.filter((u)=>u.id===post.userId)[0].username
+                    Users.filter((u)=>u.id===post.userId)[0].username 
+                    
                 }</span>
                 <span className="postTime">{post.date}</span>
             </div>
