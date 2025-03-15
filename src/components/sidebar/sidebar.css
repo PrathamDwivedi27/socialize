@@ -3,9 +3,11 @@
     height:calc(100vh -50px);
     padding: 20px;
     overflow-y: scroll;
+    /* position: sticky;
+    top: 50px; */
     border-bottom: 1px solid lightgrey;
     border-radius: 10px;
-
+    
     
 }
 
