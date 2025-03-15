@@ -52,24 +52,32 @@ const Rightbar = ({profile}) => {
             <span className="rightbarFollowingName">John Carter</span>
           </div>
           <div className="rightbarFollowing">
-            <img src="assets/person/1.jpeg" alt="" className="rightbarFollowingImg" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img src="assets/person/5.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">William Taylor</span>
           </div>
           <div className="rightbarFollowing">
-            <img src="assets/person/1.jpeg" alt="" className="rightbarFollowingImg" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img src="assets/person/3.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Jane Wilson</span>
           </div>
           <div className="rightbarFollowing">
-            <img src="assets/person/1.jpeg" alt="" className="rightbarFollowingImg" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img src="assets/person/4.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Motherboard</span>
           </div>
           <div className="rightbarFollowing">
-            <img src="assets/person/1.jpeg" alt="" className="rightbarFollowingImg" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img src="assets/person/2.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Bhosdiwala</span>
           </div>
           <div className="rightbarFollowing">
-            <img src="assets/person/1.jpeg" alt="" className="rightbarFollowingImg" />
-            <span className="rightbarFollowingName">John Carter</span>
+            <img src="assets/person/9.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Gangubai</span>
+          </div>
+          <div className="rightbarFollowing">
+            <img src="assets/person/10.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Johanson</span>
+          </div>
+          <div className="rightbarFollowing">
+            <img src="assets/person/7.jpeg" alt="" className="rightbarFollowingImg" />
+            <span className="rightbarFollowingName">Sparky</span>
           </div>
         </div>
       </>
